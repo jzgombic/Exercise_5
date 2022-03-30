@@ -4,8 +4,7 @@
 <module name="Checker">
      <module name="TreeWalker">
           <module name="ConstantName">
-               <property name="applyToPublic" value="false"/>
-               <property name="applyToProtected" value="false"/>
+               <property name="umlNUMBER1" value="3"/>
           </module>
           <module name="JavadocType">
                <property name="scope" value="public"/>
