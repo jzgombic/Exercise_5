@@ -4,7 +4,8 @@
 <module name="Checker">
      <module name="TreeWalker">
           <module name="ConstantName">
-               <property name="umlNUMBER1" value="3"/>
+               <property name="format"
+                    value="^uml(Number1)?$|^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$"/>
           </module>
           <module name="JavadocType">
                <property name="scope" value="public"/>
