@@ -36,6 +36,7 @@ jacocoTestCoverageVerification {
 
 checkstyle {
 	checkstyleTest.enabled = false
+	toolVersion = '6.9'
 }
 
 task acceptanceTest(type: Test) {
