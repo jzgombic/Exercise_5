@@ -5,7 +5,7 @@
      <module name="TreeWalker">
           <module name="ConstantName">
                <property name="format"
-                    value="^umlNumber1?$|^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$"/>
+                    value="umlNumber1"/>
           </module>
           <module name="JavadocType">
                <property name="scope" value="public"/>
