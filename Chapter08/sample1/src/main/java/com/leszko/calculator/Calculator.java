@@ -1,3 +1,7 @@
+/**
+* Calculator
+*/
+
 package com.leszko.calculator;
 
 import org.springframework.cache.annotation.Cacheable;
