@@ -15,7 +15,7 @@ public class Calculator {
 /**
 * Checkstyle I
 */
-        final static int umlNUMBER1 = 3;
+        final static int log = 3;
 	@Cacheable("sum")
 	public int sum(int a, int b) {
 		return a + b;
